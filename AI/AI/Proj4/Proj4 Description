@@ -1,0 +1,20 @@
+Create a program that does k-means clustering. It should run with the follwing command: 
+
+python Clustering.py numberOfClusters file.txt
+
+
+Where file.txt is a series of 2d points, one per line.  Your program should then display a graph of the points divided into their clusters. 
+
+https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-python/
+
+https://datasciencelab.wordpress.com/2014/01/15/improved-seeding-for-clustering-with-k-means/
+
+http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/functions.html
+
+https://docs.python.org/3/howto/argparse.html
+
+https://welcomedata.wordpress.com/2015/01/24/file-inputoutput-python/
+
+http://stackoverflow.com/questions/8280250/how-to-open-files-given-as-command-line-arguments-in-python
+
+https://docs.python.org/3.3/library/argparse.html

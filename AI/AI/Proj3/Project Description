@@ -1,0 +1,32 @@
+Project 3
+Due: May 4th 
+ 
+Your program should take a single argument, the filepath to a jpg.  It will then print out one of 
+the following strings: 
+ 
+Smile 
+Hat 
+Dollar 
+Hash 
+Heart 
+ 
+You should include a readme explaining how to run and / or install your program. 
+ 
+You should also include a report describing your approach, your accuracy, and anything else 
+you think would be of interest.  This will likely be between two or three pages, and should be 
+written in latex. 
+ 
+Data is here: 
+https://drive.google.com/a/umbc.edu/folderview?id=0BzJHBBMMxZNlVHZXX093VzNlSkU&usp
+=sharing
+
+
+Resources:
+
+https://pythonprogramming.net/linear-svc-example-scikit-learn-svm-python/
+
+https://www.daniweb.com/programming/software-development/threads/253957/converting-an-image-file-png-to-a-bitmap-file
+
+www.pythonware.com/products/pil
+
+https://www.google.com/search?client=ubuntu&channel=fs&q=install+pil+in+ubuntu&ie=utf-8&oe=utf-8#channel=fs&q=install+pil+in+ubuntu+14.04
